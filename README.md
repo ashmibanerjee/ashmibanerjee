@@ -3,7 +3,7 @@ Hey there !! 👋 I am Ashmi Banerjee.
 </h2>
 
 <h3 align="center">
-Doctoral Candidate 👩‍💻 | Google Women Techmakers Ambassador 🚀
+Doctoral Candidate 👩🏻‍💻‍ | Google Women Techmakers Ambassador 🚀
 </h3>
 <p align="justified">
   Originally from India, currently based in Germany, I am a doctoral student at the <a href="https://www.ce.cit.tum.de/cm/home/">Chair of Connected Mobility</a> at the <a href="https://tum.de/">Technical University of Munich (TUM)</a>, Germany. My research focuses on Recommender Systems and Human-Computer Interaction. I graduated with a master's degree in Computer Science (Informatics) from TUM in 2019.
