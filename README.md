@@ -37,18 +37,11 @@ When not sitting in front of my computer, I am either travelling or training to 
 <hr/>
 
 <h2> 📫 Socials </h2>
-
-* [mail[at]ashmibanerjee[dot]com](mail@ashmibanerjee.com)
-* [https://ashmibanerjee.com](https://ashmibanerjee.com)
-
 <p>
+ <a href = "mailto:mail@ashmibanerjee.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ashmi-banerjee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ashmi-banerjee">
  <a href="https://github.com/ashmibanerjee" target="_blank"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="ashmi-banerjee">
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="ashmi-banerjee">
-</p>
-
-<p>
  <a href="https://medium.com/@ashmi_banerjee" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="ashmi-banerjee">
-<a href="https://scholar.google.com/citations?user=ygXK024AAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=google-scholar&logoColor=white&style=for-the-badge" alt="ashmi-banerjee">
-</a>
+<a href="https://scholar.google.com/citations?user=ygXK024AAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=google-scholar&logoColor=white&style=for-the-badge" alt="ashmi-banerjee"></a>
 </p>
