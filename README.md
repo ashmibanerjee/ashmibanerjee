@@ -3,17 +3,24 @@ Hey there !! 👋 I am Ashmi Banerjee.
 </h2>
 
 <h3 align="center">
-Doctoral Candidate 👩🏻‍💻‍ | Google Women Techmakers Ambassador 🚀
+Doctoral Candidate 👩🏻‍💻‍ | Google Developer Expert (GDE) ML 🤖 | Women Techmakers Ambassador 🚀
 </h3>
 <p align="justified">
-  Originally from India, currently based in Germany, I am a doctoral candidate at the <a href="https://www.ce.cit.tum.de/cm/home/">Chair of Connected Mobility</a> at the <a href="https://tum.de/">Technical University of Munich (TUM)</a>, Germany. My research focuses on <b>Recommender Systems</b> and <b>Human-Computer Interaction</b>. I graduated with a master's degree in Computer Science (Informatics) from TUM in 2019.
   
-I am excited about new technical challenges and automating mundane activities using technology. Exposure to multiple data science, Artificial Intelligence, and software-engineering projects during my stays at <a href="https://www.telekom.de/">Deutsche (German) Telekom</a>, <a href="https://www.experteer.de/">Experteer</a>, <a href="https://www.mpi-sws.org/">Max Planck Institute for Software Systems</a>, and <a href="https://www.isical.ac.in/">Indian Statistical Institute, Kolkata</a> bolstered my understanding of the subject. 
-  I am also a self-taught (hobby) web developer working with <b>ReactJS</b>, <b>Django</b>, <b>FastAPI</b>, etc.
+I am currently pursuing my doctoral studies at the <a href="https://www.ce.cit.tum.de/cm/home/">Chair of Connected Mobility</a> at the <a href="https://tum.de/">Technical University of Munich (TUM)</a>, Germany, where my research focuses on <b>Recommender Systems</b> and <b>Human-Computer Interaction</b>. I hold a master's degree in Computer Science from the same university.
 
-As a <a href="https://developers.google.com/womentechmakers">Google Women Techmakers (WTM) Ambassador</a> and a diversity enthusiast, I am passionate about bridging the gender gap in STEM through a myriad of voluntary activities with different women in STEM networks like <a href="https://www.femaletechleaders.org/">Female Tech Leaders (FTL)</a>, <a href="https://www.womenwhocode.com/">Women Who Code (WWC)</a>, <a href="https://www.in.tum.de/in/news-single-view/article/iff-gender-diversity-grants/">Women in CS at TUM (IFF)</a>, <a href="https://www.indianwic.org/">Anita Borg's Indian Women in Computing (IWiC)</a>, etc. 
+I am passionate about using technology to automate tedious tasks and am always excited to tackle new technical challenges. 
+Recently, I was honoured with the <a href="https://developher.co.uk/developher-winners-2022/">DevelopHER Awards 2022</a> in the <b>Emerging Talent</b> category by DevelopHER UK and was also named as <a href="https://www.womenwhocode.com/100-technologists-to-watch?mc_cid=4dd7b3516a&mc_eid=99ae716a8c">one of the 100 technologists to watch for 2023</a>.
 
-When not sitting in front of my computer, I am either travelling or training to be a triathlete 🏊‍♀️ 🚴 🏃‍♀️
+My past experiences working on data science, AI, and software engineering projects at various companies such as <a href="https://www.telekom.de/">Deutsche (German) Telekom</a>, <a href="https://www.experteer.de/">Experteer</a>, <a href="https://www.mpi-sws.org/">Max Planck Institute for Software Systems</a>, and <a href="https://www.isical.ac.in/">Indian Statistical Institute, Kolkata</a> have helped me gain a deep understanding of the field. In addition, I am a self-taught web developer and hold the title of <b>Google Developer Expert (GDE) in Machine Learning</b>.
+
+
+As a <a href="https://developers.google.com/womentechmakers">Google Women Techmakers (WTM) Ambassador</a> and a diversity advocate, I am dedicated to closing the gender gap in STEM through my involvement in various women in STEM networks like <a href="https://www.femaletechleaders.org/">Female Tech Leaders (FTL)</a>, <a href="https://www.womenwhocode.com/">Women Who Code (WWC)</a>, <a href="https://www.in.tum.de/in/news-single-view/article/iff-gender-diversity-grants/">Women in CS at TUM (IFF)</a>, <a href="https://www.indianwic.org/">Anita Borg's Indian Women in Computing (IWiC)</a>, etc. 
+
+When not sitting in front of my computer, I am either travelling or training to be a triathlete.
+Despite the seemingly unrelated, I attribute my endurance and resilience to this experience. 🏊‍♀️ 🚴 🏃‍♀️
+
+
 </p>
 
 
